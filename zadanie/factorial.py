@@ -1,2 +1,3 @@
+import math
 def fact(n):
-    return "I dunno"
+    return math.factorial(n)
